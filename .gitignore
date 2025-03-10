@@ -1,0 +1,19 @@
+# Ignore dataset folder
+data/img_align_celeba/
+
+# Ignore large image/video files
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.zip
+
+# Ignore temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+venv/
+.DS_Store
