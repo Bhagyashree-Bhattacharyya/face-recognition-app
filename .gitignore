@@ -1,5 +1,6 @@
 # Ignore dataset folder
 data/img_align_celeba/
+.venv/
 
 # Ignore large image/video files
 *.jpg
