@@ -1,6 +1,7 @@
 # Ignore dataset folder
 data/img_align_celeba/
 .venv/
+.ipynb_checkpoints/
 
 # Ignore large image/video files
 *.jpg
